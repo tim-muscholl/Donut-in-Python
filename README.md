@@ -1,2 +1,2 @@
-# Donutanimationpython
- Donut Animation in Python 
+# A Donut animation with python
+
